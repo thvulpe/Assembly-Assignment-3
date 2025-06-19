@@ -1,6 +1,6 @@
 # 🔍 NASM x86 Assignment
 
-> 📝 [Assignment Description – TEMA 3](https://gitlab.cs.pub.ro/iocla/tema-3-2025)
+> 📝 [Assignment Description](https://gitlab.cs.pub.ro/iocla/tema-3-2025)
 
 ## 👨‍💻 Author
 **Theodor Vulpe**
