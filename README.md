@@ -1,4 +1,4 @@
-# 🔍 Composite Palindrome Checker – IOCLA Homework 3
+# 🔍 NASM x86 Assignment
 
 > 📝 [Assignment Description – TEMA 3](https://gitlab.cs.pub.ro/iocla/tema-3-2025)
 
@@ -14,7 +14,7 @@ Spring 2025, University Politehnica of Bucharest
 
 ## 🧠 Overview
 
-This project implements a set of four tasks in C, focused on pointer manipulation, string processing, recursion, and backtracking. All tasks are solved with performance and correctness in mind, with manual memory handling.
+This project implements a set of four tasks in NASM x86, focused on pointer manipulation, string processing, recursion, and backtracking. All tasks are solved with performance and correctness in mind, with manual memory handling.
 
 ---
 
